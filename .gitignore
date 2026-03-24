@@ -1,0 +1,34 @@
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Visual Studio
+.vs/
+*.sln
+*.VC.db
+*.VC.opendb
+
+# Build files
+Build/
+*.opensdf
+*.sdf
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temp
+*.tmp
+*.temp
+
+# Unreal user files
+*.user
+*.userprefs
+
+# Ignore heavy content (IMPORTANT)
+Content/*
