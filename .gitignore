@@ -30,5 +30,3 @@ Thumbs.db
 *.user
 *.userprefs
 
-# Ignore heavy content (IMPORTANT)
-Content/*
