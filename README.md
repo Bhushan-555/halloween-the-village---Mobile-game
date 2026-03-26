@@ -15,5 +15,3 @@ A mobile horror-themed game developed using Unreal Engine 5.
 ## Download APK
 https://drive.google.com/file/d/1dz2qGEnZLgkoWCJp4jOpscROVabsjWpF/view?usp=sharing
 
-## 📌 Note
-Full project assets are not included due to size limitations.
